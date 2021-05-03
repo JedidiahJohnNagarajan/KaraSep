@@ -35,6 +35,14 @@
 ## Training and loss
 ![trianing loss](https://user-images.githubusercontent.com/13598741/116878917-fc189380-abed-11eb-8821-14163f0106fb.PNG)
 
+## Dataset
+#### KaraSep is a service where you can easily separate vocals and music from any song or audio file, allowing you to create a karaoke version of any song. We are using MUSDB18 (https://sigsep.github.io/datasets/musdb.html#musdb18-compressed-stems) for training the system using a dataset which is already labeled. The dataset contains a total 150 full length music tracks encoded in AAC @256kbps, We will separate the MedleyDB into train data, validation data, and test data.
+
+## Evaluation
+#### Evaluate the output using BSS measure. There are some existing methods used in music separation. We will compare their performance to ours.
+
+## Challenges
+#### Some of our potential challenges include creating a code that will successfully give us the output we are looking for. If we come across any obstacles, we will try to approach the issues in a timely manner that way the final presentation is done by the due date. The dataset MedleyDB contains only 70 tracks with vocals and the number of stereo streams are not always fixed so we decided to go with the dataset professor mentioned, MUSDB18, which contains 150 tracks with vocals.
 
 ## Problem we have
 #### Setting up the environment is the most difficult part. We tried to run it with tensorflow at first, but kept failing, so we changed it to Pytorch.
