@@ -11,7 +11,7 @@
 #### [sq5@njit.edu](https://mail.google.com/mail/?view=cm&fs=1&to=sq5@njit.edu) ✉️, 
 #### [jn34@njit.edu](https://mail.google.com/mail/?view=cm&fs=1&to=jn34@njit.edu) ✉️
 
-# This is IS 698 Machine Listening from New Jersey Institute Of Technology, taught by Mark Cartwright ([mark.cartwright@njit.edu](https://mail.google.com/mail/view=cm&fs=1&to=mark.cartwright@njit.edu))
+### This is IS 698 Machine Listening from New Jersey Institute Of Technology, taught by Mark Cartwright ([mark.cartwright@njit.edu](https://mail.google.com/mail/view=cm&fs=1&to=mark.cartwright@njit.edu))
 
 ## Motivation
 #### One of the main reasons we came up with this idea is because one of the greatest benefits of karaoke is the amount of stress it releases. Since singing usually makes people happy, the level of stress in your body is automatically decreased. At the same time, endorphins are released, and they help reduce both anxiety and stress. Considering the pandemic, everyone is stuck at home and this is a fun way for people to distract themselves.
@@ -43,11 +43,17 @@
 
 ## How to run the code
 + **If just want to try download instrumental versions from Youtube, run**
-+ **python test.py .\model.pth**
+
+     ``python test.py .\model.pth``
+     
 + **If want to train your own model, run**
-+ **python wav.py .\musdb18\ .\musdb18_wav\**
+
+     ``python wav.py .\musdb18\ .\musdb18_wav\``
+     
 + **To convert the mp4 files to wav files, then run**
-+ **python train.py .\musdb18_wav\ .\output\**
+
+     ``python train.py .\musdb18_wav\ .\output\``
+     
 
 ## Requirements
 #### GPU with cuda
