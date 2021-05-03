@@ -6,7 +6,7 @@
 #### :princess: Sahar Qiyash            ![](https://komarev.com/ghpvc/?username=saharqiyash&color=green)
 #### :prince: Jedidiah John Nagarajan ![](https://komarev.com/ghpvc/?username=JedidiahJohnNagarajan&color=blue)
 
-## Contact:
+## Reach Us:
 #### tw329@njit.edu ✉️, 
 #### sq5@njit.edu ✉️, 
 #### jn34@njit.edu ✉️
