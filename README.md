@@ -30,7 +30,7 @@
 
 #### There’s many products on the market related to Karaoke such as the JBL Karaoke system.
 + **https://lightyearmusic.com/products/jbl-professional-karaoke-system-bluetooth-mixer-wireless-mics-monitor-and-stand-and-free-karaoke-songs?variant=32241603510366&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gclid=Cj0KCQjwjPaCBhDkARIsAISZN7THjb2PzlF3uIw1H1ppihbOK_9MViWI7dWbm_JqLlW8hCEOKT4SR3caApiOEALw_wcB**
-+ **- https://www.idjnow.com/yamaha-stagepas-600bt-pa-system-with-adapter-and-mics.html?gclid=Cj0KCQjwjPaCBhDkARIsAISZN7TtbvElcVnt6tKscb2_jjhfgnFwkb6mJUVN0s5bQJ62ohZlvarPu6kaAlNMEALw_wcB**
++ **https://www.idjnow.com/yamaha-stagepas-600bt-pa-system-with-adapter-and-mics.html?gclid=Cj0KCQjwjPaCBhDkARIsAISZN7TtbvElcVnt6tKscb2_jjhfgnFwkb6mJUVN0s5bQJ62ohZlvarPu6kaAlNMEALw_wcB**
 
 ## Training and loss
 ![trianing loss](https://user-images.githubusercontent.com/13598741/116878917-fc189380-abed-11eb-8821-14163f0106fb.PNG)
