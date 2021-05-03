@@ -11,7 +11,10 @@
 #### [sq5@njit.edu](https://mail.google.com/mail/?view=cm&fs=1&to=sq5@njit.edu) ✉️, 
 #### [jn34@njit.edu](https://mail.google.com/mail/?view=cm&fs=1&to=jn34@njit.edu) ✉️
 
-### This is IS 698 Machine Listening from New Jersey Institute Of Technology, taught by Mark Cartwright ([mark.cartwright@njit.edu](https://mail.google.com/mail/view=cm&fs=1&to=mark.cartwright@njit.edu))
+### This is class of IS 698 Machine Listening from New Jersey Institute Of Technology, handled by Mark Cartwright ([mark.cartwright@njit.edu](https://mail.google.com/mail/view=cm&fs=1&to=mark.cartwright@njit.edu))
+
+#### It is the study of algorithms for the machine understanding of audio. It's the auditory sibling of computer vision. It has diverse applications such as automatic music transcription, music recommendation, audio search, smart home acoustic sensing, machine condition monitoring, audio captioning, urban noise monitoring, and wildlife monitoring. This course will provide an overview of topics in the field, focusing on the machine understanding of music and environmental sound. Lectures will cover the fundamental problems and classical approaches of the field, as well as the discussion of the field’s recent advances. During the semester, each student will be tasked with presenting one of the field’s recent papers to the class. Assignments in the first half of the course will be Python programming assignments on the fundamentals of the course, and assignments in the second half of the course will consist of milestones and updates on a final group project that students will propose. 
+
 
 ## Motivation
 #### One of the main reasons we came up with this idea is because one of the greatest benefits of karaoke is the amount of stress it releases. Since singing usually makes people happy, the level of stress in your body is automatically decreased. At the same time, endorphins are released, and they help reduce both anxiety and stress. Considering the pandemic, everyone is stuck at home and this is a fun way for people to distract themselves.
