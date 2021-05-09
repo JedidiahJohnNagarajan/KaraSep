@@ -33,7 +33,8 @@
 + **https://www.idjnow.com/yamaha-stagepas-600bt-pa-system-with-adapter-and-mics.html?gclid=Cj0KCQjwjPaCBhDkARIsAISZN7TtbvElcVnt6tKscb2_jjhfgnFwkb6mJUVN0s5bQJ62ohZlvarPu6kaAlNMEALw_wcB**
 
 ## Training and loss
-![trianing loss](https://user-images.githubusercontent.com/13598741/116878917-fc189380-abed-11eb-8821-14163f0106fb.PNG)
+![trian and test loss](https://user-images.githubusercontent.com/13598741/117584790-dfdc9100-b0dc-11eb-87a6-521ac43c1189.PNG)
+
 
 ## Dataset
 #### KaraSep is a service where you can easily separate vocals and music from any song or audio file, allowing you to create a karaoke version of any song. We are using MUSDB18 (https://sigsep.github.io/datasets/musdb.html#musdb18-compressed-stems) for training the system using a dataset which is already labeled. The dataset contains a total 150 full length music tracks encoded in AAC @256kbps, We will separate the MedleyDB into train data, validation data, and test data.
